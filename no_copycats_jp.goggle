@@ -1,0 +1,7 @@
+! name: No Copycats JP
+! description: remove copycats
+! public: false
+! author: tatsuno
+
+$discard,site=kakakumag.com
+$discard,site=my-best.com
